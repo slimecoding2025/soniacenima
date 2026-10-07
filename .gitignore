@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+.env.*
+!.env.example
+*.mp4
+*.mov
+*.mkv
+.vercel
+.DS_Store
